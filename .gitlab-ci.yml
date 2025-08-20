@@ -6,7 +6,6 @@ buildjop:
   stage:bulid
   script:
     -echo"Bulliding the project"
-
 testjob
   stage:test
   script:
